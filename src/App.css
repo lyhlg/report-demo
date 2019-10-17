@@ -20,3 +20,13 @@
 .App-link {
   color: #09d3ac;
 }
+
+.sigCanvas {
+  border: solid 1px red;
+}
+
+.input {
+  width: 200px;
+  height: 30px;
+  margin: 20px;
+}
